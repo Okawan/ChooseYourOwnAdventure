@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F1031A41C0F698000671E29 /* FirstChoicePath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031A31C0F698000671E29 /* FirstChoicePath.swift */; };
+		3F1031A61C12107100671E29 /* FirstChoicePathEndOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031A51C12107100671E29 /* FirstChoicePathEndOne.swift */; };
+		3F1031A81C1210B600671E29 /* FirstSecondChoicePathEndOneTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031A71C1210B600671E29 /* FirstSecondChoicePathEndOneTwo.swift */; };
+		3F1031AA1C1210DE00671E29 /* SecondChoicePathEndTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031A91C1210DE00671E29 /* SecondChoicePathEndTwo.swift */; };
+		3F1031AC1C12112600671E29 /* SecondChoicePath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031AB1C12112600671E29 /* SecondChoicePath.swift */; };
+		3F1031AE1C12116100671E29 /* ThirdChoicePath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031AD1C12116100671E29 /* ThirdChoicePath.swift */; };
+		3F1031B01C1211D600671E29 /* ThirdChoicePathEndingOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031AF1C1211D600671E29 /* ThirdChoicePathEndingOne.swift */; };
+		3F1031B21C1211FD00671E29 /* ThirdChoicePathEndingTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1031B11C1211FD00671E29 /* ThirdChoicePathEndingTwo.swift */; };
 		3F4FBCDD1C0D44630076523B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4FBCDC1C0D44630076523B /* AppDelegate.swift */; };
 		3F4FBCDF1C0D44630076523B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4FBCDE1C0D44630076523B /* ViewController.swift */; };
 		3F4FBCE21C0D44630076523B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F4FBCE01C0D44630076523B /* Main.storyboard */; };
@@ -14,6 +22,7 @@
 		3F4FBCE71C0D44630076523B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F4FBCE51C0D44630076523B /* LaunchScreen.storyboard */; };
 		3F4FBCF21C0D44640076523B /* ChooseYourOwnAdventureStoryFinalS1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4FBCF11C0D44640076523B /* ChooseYourOwnAdventureStoryFinalS1Tests.swift */; };
 		3F4FBCFD1C0D44640076523B /* ChooseYourOwnAdventureStoryFinalS1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4FBCFC1C0D44640076523B /* ChooseYourOwnAdventureStoryFinalS1UITests.swift */; };
+		3FE6589A1C15FFFE00968D30 /* SecondChoicePathEndingOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE658991C15FFFE00968D30 /* SecondChoicePathEndingOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +43,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F1031A31C0F698000671E29 /* FirstChoicePath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FirstChoicePath.swift; path = ../FirstChoicePath.swift; sourceTree = "<group>"; };
+		3F1031A51C12107100671E29 /* FirstChoicePathEndOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstChoicePathEndOne.swift; sourceTree = "<group>"; };
+		3F1031A71C1210B600671E29 /* FirstSecondChoicePathEndOneTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstSecondChoicePathEndOneTwo.swift; sourceTree = "<group>"; };
+		3F1031A91C1210DE00671E29 /* SecondChoicePathEndTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondChoicePathEndTwo.swift; sourceTree = "<group>"; };
+		3F1031AB1C12112600671E29 /* SecondChoicePath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondChoicePath.swift; sourceTree = "<group>"; };
+		3F1031AD1C12116100671E29 /* ThirdChoicePath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdChoicePath.swift; sourceTree = "<group>"; };
+		3F1031AF1C1211D600671E29 /* ThirdChoicePathEndingOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdChoicePathEndingOne.swift; sourceTree = "<group>"; };
+		3F1031B11C1211FD00671E29 /* ThirdChoicePathEndingTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdChoicePathEndingTwo.swift; sourceTree = "<group>"; };
 		3F4FBCD91C0D44630076523B /* ChooseYourOwnAdventureStoryFinalS1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChooseYourOwnAdventureStoryFinalS1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F4FBCDC1C0D44630076523B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F4FBCDE1C0D44630076523B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +64,7 @@
 		3F4FBCF81C0D44640076523B /* ChooseYourOwnAdventureStoryFinalS1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChooseYourOwnAdventureStoryFinalS1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F4FBCFC1C0D44640076523B /* ChooseYourOwnAdventureStoryFinalS1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseYourOwnAdventureStoryFinalS1UITests.swift; sourceTree = "<group>"; };
 		3F4FBCFE1C0D44640076523B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FE658991C15FFFE00968D30 /* SecondChoicePathEndingOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondChoicePathEndingOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +117,16 @@
 			children = (
 				3F4FBCDC1C0D44630076523B /* AppDelegate.swift */,
 				3F4FBCDE1C0D44630076523B /* ViewController.swift */,
+				3F1031A31C0F698000671E29 /* FirstChoicePath.swift */,
 				3F4FBCE01C0D44630076523B /* Main.storyboard */,
+				3FE658991C15FFFE00968D30 /* SecondChoicePathEndingOne.swift */,
+				3F1031B11C1211FD00671E29 /* ThirdChoicePathEndingTwo.swift */,
+				3F1031AF1C1211D600671E29 /* ThirdChoicePathEndingOne.swift */,
+				3F1031AD1C12116100671E29 /* ThirdChoicePath.swift */,
+				3F1031AB1C12112600671E29 /* SecondChoicePath.swift */,
+				3F1031A91C1210DE00671E29 /* SecondChoicePathEndTwo.swift */,
+				3F1031A71C1210B600671E29 /* FirstSecondChoicePathEndOneTwo.swift */,
+				3F1031A51C12107100671E29 /* FirstChoicePathEndOne.swift */,
 				3F4FBCE31C0D44630076523B /* Assets.xcassets */,
 				3F4FBCE51C0D44630076523B /* LaunchScreen.storyboard */,
 				3F4FBCE81C0D44630076523B /* Info.plist */,
@@ -259,7 +286,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F4FBCDF1C0D44630076523B /* ViewController.swift in Sources */,
+				3F1031B01C1211D600671E29 /* ThirdChoicePathEndingOne.swift in Sources */,
+				3F1031AC1C12112600671E29 /* SecondChoicePath.swift in Sources */,
 				3F4FBCDD1C0D44630076523B /* AppDelegate.swift in Sources */,
+				3F1031AE1C12116100671E29 /* ThirdChoicePath.swift in Sources */,
+				3F1031B21C1211FD00671E29 /* ThirdChoicePathEndingTwo.swift in Sources */,
+				3F1031A81C1210B600671E29 /* FirstSecondChoicePathEndOneTwo.swift in Sources */,
+				3F1031A41C0F698000671E29 /* FirstChoicePath.swift in Sources */,
+				3F1031AA1C1210DE00671E29 /* SecondChoicePathEndTwo.swift in Sources */,
+				3FE6589A1C15FFFE00968D30 /* SecondChoicePathEndingOne.swift in Sources */,
+				3F1031A61C12107100671E29 /* FirstChoicePathEndOne.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -486,6 +522,7 @@
 				3F4FBD031C0D44640076523B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F4FBD041C0D44640076523B /* Build configuration list for PBXNativeTarget "ChooseYourOwnAdventureStoryFinalS1Tests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +531,7 @@
 				3F4FBD061C0D44640076523B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F4FBD071C0D44640076523B /* Build configuration list for PBXNativeTarget "ChooseYourOwnAdventureStoryFinalS1UITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +540,7 @@
 				3F4FBD091C0D44640076523B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
